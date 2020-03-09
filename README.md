@@ -1,8 +1,17 @@
 # projects-CVUT
-all the projects I made during the class in ĆVUT is here.
+all the projects I made during the PGE class in ĆVUT is here.
 
-list of courses :
-  - FUP(Functional Programming) : Racket, Haskell
-  - PG2(Programming2) : Java & C
-  - PGE(Programming for engineers) : Python
+list of projects:
+  1. Underground Mines Robots Training (06.Mar)
+  2. NorthHike (18.Mar)
+  3.
+  4.
+  5.
+  6.
+  7.
+  8.
+  9.
+  10.
+ 
+ 
   
